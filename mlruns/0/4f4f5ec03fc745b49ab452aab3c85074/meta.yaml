@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vinayak.t/MlflowHandsOn/mlruns/0/4f4f5ec03fc745b49ab452aab3c85074/artifacts
+end_time: 1707055676930
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f4f5ec03fc745b49ab452aab3c85074
+run_name: treasured-shrew-0
+run_uuid: 4f4f5ec03fc745b49ab452aab3c85074
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707055675256
+status: 3
+tags: []
+user_id: GREYORANGE\vinayak.t
